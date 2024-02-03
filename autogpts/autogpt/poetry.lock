@@ -7191,4 +7191,5 @@ benchmark = ["agbenchmark"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "aab84eef0d990d25803675669e775d18cd7801cd03bd0f72f3a92859d24db68b"
+release-autogpt-v0.5.x
+content-hash = "bd520cc56d67eb631b6a9569e18934c08c5d302761c589c74a4839a805039137"
